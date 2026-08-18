@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amodamendis.work@gmail.com**
 
-- ⚡ Fun fact **I think i am me**
+- ⚡ Fun fact **I trust "kubectl get pods" more than most weather forecasts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
