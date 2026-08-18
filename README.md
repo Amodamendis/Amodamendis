@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amodarashmikadevops](https://medium.com/@amodarashmikadevops)
 
-- 💬 Ask me about **Managed services**
+- 💬 Ask me about **Devops & Site reliability engineering**
 
 - 📫 How to reach me **amodamendis.work@gmail.com**
 
-- ⚡ Fun fact **I trust "kubectl get pods" more than most weather forecasts.**
+- ⚡ Fun fact : **I trust "kubectl get pods" more than most weather forecasts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
