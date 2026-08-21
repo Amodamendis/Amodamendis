@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amodamendis&label=Profile%20views&color=0e75b6&style=flat" alt="amodamendis" /> </p>
 
-- 🔭 I’m currently working on [Shalotrack lanka](https://github.com/Shalotrack-Lanka)
+- 🔭 My EX working experience is on [Shalotrack lanka](https://github.com/Shalotrack-Lanka)
 
 - 🌱 I’m currently learning **Kubernetes , Gitops , SRE**
 
